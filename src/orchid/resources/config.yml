@@ -1,7 +1,7 @@
 site:
   about:
-    siteName: 'Orchid Starter'
-    subtitle: 'Basic starter repo to get going with Orchid quickly'
+    siteName: 'MARSS documentation'
+    subtitle: 'Investigating if Orchid can make beautiful doc for MARSS'
     siteDescription: 'This is a short blurb you can set below this index layouts sidebar.'
     avatar: '/assets/media/logo.jpg'
   theme: 'FutureImperfect'
